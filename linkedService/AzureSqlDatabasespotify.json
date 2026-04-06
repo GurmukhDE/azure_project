@@ -7,11 +7,11 @@
 		"typeProperties": {
 			"server": "azureserverguru.database.windows.net",
 			"database": "auzreprojectdb",
-			"encrypt": "mandatory",
+			"encrypt": "optional",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
 			"userName": "admingurudb",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDJBMDQ1OTc0LTlCN0MtNDZCNC04NjgzLTZGNzRCRjY3NUM0NV82OTgyNGJlZi1mMzU0LTQ1YmYtOTExZC0xOWE0ZTkwOTQ5NjQiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDJBMDQ1OTc0LTlCN0MtNDZCNC04NjgzLTZGNzRCRjY3NUM0NV9iOWI4N2FjYy05ZmRjLTQyM2YtYjE4Yy1lYmI3NzdmNDdmN2EiDQp9"
 		}
 	}
 }
